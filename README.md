@@ -1,7 +1,9 @@
 simple_test_atlas_moveit
 ========================
 
-Repository dedicated to testing and debugging basic planning issues with atlas
+Repository dedicated to testing and debugging basic planning issues with atlas/moveit
+
+# Install
 
 ```
 mkdir -p atlas_test/src
@@ -27,7 +29,14 @@ Source setup.bash:
 source devel/setup.bash
 ```
 
-Start demo.launch of your choice, for instance
+# Usage
+
+Start demo.launch of your choice, for instance (using config created using moveit_setup_assistant from ROS Groovy)
 ```
 roslaunch atlas_v3_groovy_moveit_config demo.launch
 ```
+or (using config created using moveit_setup_assistant from ROS Groovy)
+```
+roslaunch atlas_v3_indigo_moveit_config demo.launch
+```
+
