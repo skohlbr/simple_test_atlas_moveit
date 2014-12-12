@@ -1,0 +1,3 @@
+- git:
+    uri: https://github.com/skohlbr/simple_test_atlas_moveit.git
+    local-name: simple_test_atlas_moveit
