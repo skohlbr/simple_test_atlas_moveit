@@ -31,11 +31,11 @@ source devel/setup.bash
 
 # Usage
 
-Start demo.launch of your choice, for instance (using config created using moveit_setup_assistant from ROS Groovy)
+Start demo.launch of your choice, for instance (using config created with moveit_setup_assistant from ROS Groovy)
 ```
 roslaunch atlas_v3_groovy_moveit_config demo.launch
 ```
-or (using config created using moveit_setup_assistant from ROS Groovy)
+or (using config created with moveit_setup_assistant from ROS Indigo)
 ```
 roslaunch atlas_v3_indigo_moveit_config demo.launch
 ```
