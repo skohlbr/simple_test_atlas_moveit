@@ -10,6 +10,7 @@ mkdir -p atlas_test/src
 cd atlas_test/src
 wstool init .
 wstool merge https://raw.githubusercontent.com/skohlbr/simple_test_atlas_moveit/master/simple_test_atlas_moveit.rosinstall
+wstool update
 ```
 
 source ROS version you´d like, for instance
