@@ -1,0 +1,9 @@
+controller_list:
+  - name: fake_l_arm_group_controller
+    joints:
+      - l_arm_shy
+      - l_arm_shx
+      - l_arm_ely
+      - l_arm_elx
+      - l_arm_wry
+      - l_arm_wrx
